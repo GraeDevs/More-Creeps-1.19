@@ -2,6 +2,7 @@ package net.graedevs.morecreeps.Common;
 
 import com.mojang.logging.LogUtils;
 import net.graedevs.morecreeps.Common.init.CreepsItemHandler;
+import net.graedevs.morecreeps.Common.init.CreepsSoundHandler;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.api.distmarker.Dist;
@@ -33,6 +34,7 @@ public class MoreCreeps
         modEventBus.addListener(this::commonSetup);
 
         CreepsItemHandler.register(modEventBus);
+        CreepsSoundHandler.register(modEventBus);
 
 
         MinecraftForge.EVENT_BUS.register(this);

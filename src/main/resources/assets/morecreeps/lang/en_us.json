@@ -1,5 +1,8 @@
 {
   "itemGroup.morecreeps": "More Creeps",
 
-  "item.morecreeps.a_floob": "A_Floob"
+  "item.morecreeps.a_floob": "A_Floob",
+  "item.morecreeps.bandaid": "Bandaid",
+
+  "sounds.morecreeps.bandaid": "Bandaid Item Sound"
 }
