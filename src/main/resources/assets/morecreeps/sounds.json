@@ -4,5 +4,12 @@
     "sounds" : [
       "morecreeps:bandaid"
     ]
+  },
+
+  "blorpcola": {
+    "subtitle": "sounds.morecreeps.blorpcola",
+    "sounds": [
+      "morecreeps:blorpcola"
+    ]
   }
 }

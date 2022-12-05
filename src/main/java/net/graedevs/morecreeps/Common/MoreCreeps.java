@@ -13,6 +13,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import org.jetbrains.annotations.NotNull;
 import org.slf4j.Logger;
 
 @Mod(MoreCreeps.MODID)
@@ -23,7 +24,7 @@ public class MoreCreeps
 
     public static CreativeModeTab CREEPSTAB = new CreativeModeTab("morecreeps") {
         @Override
-        public ItemStack makeIcon() {
+        public @NotNull ItemStack makeIcon() {
             return new ItemStack(CreepsItemHandler.A_FLOOB.get());
         }
     };

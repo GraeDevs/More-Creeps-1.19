@@ -17,6 +17,9 @@ public class CreepsSoundHandler {
     public static final RegistryObject<SoundEvent> BANDAID_SOUND =
             registerSoundEvents("bandaid");
 
+    public static final RegistryObject<SoundEvent> BLORPCOLA =
+            registerSoundEvents("blorpcola");
+
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> new SoundEvent(new ResourceLocation(MoreCreeps.MODID, name)));

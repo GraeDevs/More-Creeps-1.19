@@ -2,7 +2,7 @@ package net.graedevs.morecreeps.Common.init;
 
 import net.graedevs.morecreeps.Common.MoreCreeps;
 import net.graedevs.morecreeps.Common.item.BandaidItem;
-import net.minecraft.world.item.CreativeModeTab;
+import net.graedevs.morecreeps.Common.item.BlorpcolaItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -17,6 +17,8 @@ public class CreepsItemHandler {
     /* Items */
     public static final RegistryObject<Item> BANDAID = ITEMS.register("bandaid",
             () -> new BandaidItem(new Item.Properties().tab(MoreCreeps.CREEPSTAB).stacksTo(24)));
+    public static final RegistryObject<Item> BLORPCOLA = ITEMS.register("blorpcola",
+            () -> new BlorpcolaItem(new Item.Properties().tab(MoreCreeps.CREEPSTAB).stacksTo(24)));
 
     /* Achievements*/
     public static final RegistryObject<Item> A_FLOOB = ITEMS.register("a_floob",

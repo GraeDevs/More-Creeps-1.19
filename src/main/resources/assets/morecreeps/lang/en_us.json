@@ -3,6 +3,8 @@
 
   "item.morecreeps.a_floob": "A_Floob",
   "item.morecreeps.bandaid": "Bandaid",
+  "item.morecreeps.blorpcola" : "Blorpcola",
 
-  "sounds.morecreeps.bandaid": "Bandaid Item Sound"
+  "sounds.morecreeps.bandaid": "Bandaid Item Sound",
+  "sounds.morecreeps.blorpcola": "Blorpcola Item Sound"
 }
