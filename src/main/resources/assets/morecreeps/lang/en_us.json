@@ -6,5 +6,7 @@
   "item.morecreeps.blorpcola" : "Blorpcola",
 
   "sounds.morecreeps.bandaid": "Bandaid Item Sound",
-  "sounds.morecreeps.blorpcola": "Blorpcola Item Sound"
+  "sounds.morecreeps.blorpcola": "Blorpcola Item Sound",
+
+  "entity.morecreeps.blorp": "Blorp"
 }

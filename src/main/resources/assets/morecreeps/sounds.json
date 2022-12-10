@@ -11,5 +11,89 @@
     "sounds": [
       "morecreeps:blorpcola"
     ]
+  },
+
+  "blorp1": {
+    "subtitle": "sounds.morecreeps.blorp1",
+    "sounds": [
+      "morecreeps:blorp1"
+    ]
+  },
+
+  "blorp2": {
+    "subtitle": "sounds.morecreeps.blorp2",
+    "sounds": [
+      "morecreeps:blorp2"
+    ]
+  },
+
+  "blorp3": {
+    "subtitle": "sounds.morecreeps.blorp3",
+    "sounds": [
+      "morecreeps:blorp3"
+    ]
+  },
+
+  "blorp4": {
+    "subtitle": "sounds.morecreeps.blorp4",
+    "sounds": [
+      "morecreeps:blorp4"
+    ]
+  },
+
+  "blorp5": {
+    "subtitle": "sounds.morecreeps.blorp5",
+    "sounds": [
+      "morecreeps:blorp5"
+    ]
+  },
+
+  "blorphurt1": {
+    "subtitle": "sounds.morecreeps.blorphurt1",
+    "sounds": [
+      "morecreeps:blorphurt1"
+    ]
+  },
+
+  "blorphurt2": {
+    "subtitle": "sounds.morecreeps.blorphurt2",
+    "sounds": [
+      "morecreeps:blorphurt2"
+    ]
+  },
+
+  "blorphurt3": {
+    "subtitle": "sounds.morecreeps.blorphurt3",
+    "sounds": [
+      "morecreeps:blorphurt3"
+    ]
+  },
+
+  "blorpdeath1": {
+    "subtitle": "sounds.morecreeps.blorpdeath1",
+    "sounds": [
+      "morecreeps:blorpdeath1"
+    ]
+  },
+
+  "blorpdeath2": {
+    "subtitle": "sounds.morecreeps.blorpdeath2",
+    "sounds": [
+      "morecreeps:blorpdeath2"
+    ]
+  },
+
+  "blorpgrow": {
+    "subtitle": "sounds.morecreeps.blorpgrow",
+    "sounds": [
+      "morecreeps:blorpgrow"
+    ]
+  },
+
+  "blorpeat": {
+    "subtitle": "sounds.morecreeps.blorpeat",
+    "sounds": [
+      "morecreeps:blorpeat"
+    ]
   }
 }

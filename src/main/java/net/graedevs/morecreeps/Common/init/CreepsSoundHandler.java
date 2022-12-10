@@ -14,11 +14,26 @@ public class CreepsSoundHandler {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
             DeferredRegister.create(ForgeRegistries.SOUND_EVENTS, MoreCreeps.MODID);
 
+    /*Items*/
     public static final RegistryObject<SoundEvent> BANDAID_SOUND =
             registerSoundEvents("bandaid");
-
     public static final RegistryObject<SoundEvent> BLORPCOLA =
             registerSoundEvents("blorpcola");
+
+    /*Entities*/
+    public static final RegistryObject<SoundEvent> BLORPSOUND =
+            registerSoundEvents("blorp1");
+    public static final RegistryObject<SoundEvent> BLORPHURT =
+            registerSoundEvents("blorphurt1");
+    public static final RegistryObject<SoundEvent> BLORPHURT2 =
+            registerSoundEvents("blorphurt2");
+    public static final RegistryObject<SoundEvent> BLORPGROW =
+            registerSoundEvents("blorpgrow");
+    public static final RegistryObject<SoundEvent> BLORPEAT =
+            registerSoundEvents("blorpeat");
+    public static final RegistryObject<SoundEvent> BLORPDEATH =
+            registerSoundEvents("blorpdeath1");
+
 
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
