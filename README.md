@@ -6,3 +6,6 @@ I am simply a passionate developer, wanting to revitalize the love and nostalgia
 will ever be said by me (GraeDevs). This mod, only, ports the content Freakstritch created to a newer version, and nothing more.
 
 Attempts to contact Freakstritch (the original Author of More Creeps) will be made to ensure proper permission will be given.
+
+# Code, Resources (Models, Textures, Sound) are under ARR laws. 
+# DO NOT ATTEMPT TO STEAL.
