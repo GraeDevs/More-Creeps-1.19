@@ -48,6 +48,13 @@
     ]
   },
 
+  "blorpbounce1": {
+    "subtitle": "sounds.morecreeps.blorpbounce1",
+    "sounds": [
+      "morecreeps:blorpbounce1"
+    ]
+  },
+
   "blorphurt1": {
     "subtitle": "sounds.morecreeps.blorphurt1",
     "sounds": [

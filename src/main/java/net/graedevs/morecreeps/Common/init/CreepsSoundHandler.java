@@ -23,6 +23,16 @@ public class CreepsSoundHandler {
     /*Entities*/
     public static final RegistryObject<SoundEvent> BLORPSOUND =
             registerSoundEvents("blorp1");
+    public static final RegistryObject<SoundEvent> BLORPSOUND2 =
+            registerSoundEvents("blorp2");
+    public static final RegistryObject<SoundEvent> BLORPSOUND3 =
+            registerSoundEvents("blorp3");
+    public static final RegistryObject<SoundEvent> BLORPSOUND4 =
+            registerSoundEvents("blorp4");
+    public static final RegistryObject<SoundEvent> BLORPSOUND5 =
+            registerSoundEvents("blorp5");
+    public static final RegistryObject<SoundEvent> BLORPBOUNCE1 =
+            registerSoundEvents("blorpbounce1");
     public static final RegistryObject<SoundEvent> BLORPHURT =
             registerSoundEvents("blorphurt1");
     public static final RegistryObject<SoundEvent> BLORPHURT2 =
