@@ -3,10 +3,13 @@
 
   "item.morecreeps.a_floob": "A_Floob",
   "item.morecreeps.bandaid": "Bandaid",
-  "item.morecreeps.blorpcola" : "Blorpcola",
+  "item.morecreeps.blorpcola" : "Blorp Cola",
 
   "sounds.morecreeps.bandaid": "Bandaid Item Sound",
   "sounds.morecreeps.blorpcola": "Blorpcola Item Sound",
 
-  "entity.morecreeps.blorp": "Blorp"
+  "entity.morecreeps.blorp": "Blorp",
+
+  "advancements.morecreeps.root.title": "More Creeps and Weirdos",
+  "advancements.morecreeps.root.description": "More Creeps and Weirdos Advancements"
 }

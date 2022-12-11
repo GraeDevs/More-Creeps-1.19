@@ -90,7 +90,6 @@ public class BlorpEntity extends Monster {
         return this.getBlockPathWeight(blockPos);
     }
 
-
     public SoundEvent getAmbientSound() {
         return CreepsSoundHandler.BLORPSOUND.get();
     }

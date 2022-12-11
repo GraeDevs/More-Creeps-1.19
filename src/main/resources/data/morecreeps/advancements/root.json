@@ -1,0 +1,22 @@
+{
+  "display": {
+    "icon": {
+      "item": "morecreeps:a_floob"
+    },
+    "title": {
+      "translate": "advancements.morecreeps.root.title"
+    },
+    "description": {
+      "translate": "advancements.morecreeps.root.description"
+    },
+    "background": "morecreeps:textures/advancement_background.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden" : false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

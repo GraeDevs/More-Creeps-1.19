@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "morecreeps:blorpcola"
+    },
+    "title": "Cola Collector",
+    "description": "Collect 10 cans of delicious Blorp Cola.",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "morecreeps:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "item": {
+          "tag": "morecreeps:blorpcola",
+          "count": 10
+        }
+      }
+    }
+  }
+}
