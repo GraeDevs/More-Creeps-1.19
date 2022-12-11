@@ -1,5 +1,6 @@
 # More Creeps and Weirdos: Resurrected for 1.19.2 (Forge)
-All Rights Reserved to: Freakstritch.
+# Code, Resources (Models, Textures, Sound) are under ARR laws. 
+All Rights Reserved to: Freakstritch. Do NOT attempt to steal, alter, or rework content.
 
 As More Creeps and Weirdos is formally Freakstritch's work, I do not, and will never, claim ownership over More Creeps and Weirdos.
 I am simply a passionate developer, wanting to revitalize the love and nostalgia of this mod. No Profit and no claim of ownership
