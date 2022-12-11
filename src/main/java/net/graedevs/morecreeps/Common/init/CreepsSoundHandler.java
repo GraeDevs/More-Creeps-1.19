@@ -19,6 +19,14 @@ public class CreepsSoundHandler {
             registerSoundEvents("bandaid");
     public static final RegistryObject<SoundEvent> BLORPCOLA =
             registerSoundEvents("blorpcola");
+    public static final RegistryObject<SoundEvent> LOLLY1 =
+            registerSoundEvents("lolly1");
+    public static final RegistryObject<SoundEvent> LOLLY2 =
+            registerSoundEvents("lolly2");
+    public static final RegistryObject<SoundEvent> LICK =
+            registerSoundEvents("lick");
+    public static final RegistryObject<SoundEvent> SPARK =
+            registerSoundEvents("spark");
 
     /*Entities*/
     public static final RegistryObject<SoundEvent> BLORPSOUND =

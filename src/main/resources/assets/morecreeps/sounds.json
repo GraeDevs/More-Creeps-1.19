@@ -6,6 +6,35 @@
     ]
   },
 
+  "spark": {
+    "subtitle": "sounds.morecreeps.spark",
+    "sounds" : [
+      "morecreeps:spark"
+    ]
+  },
+
+  "lick": {
+    "subtitle": "sounds.morecreeps.lick",
+    "sounds" : [
+      "morecreeps:lick"
+    ]
+  },
+
+
+  "lolly1": {
+    "subtitle": "sounds.morecreeps.lolly1",
+    "sounds" : [
+      "morecreeps:lolly1"
+    ]
+  },
+
+  "lolly2": {
+    "subtitle": "sounds.morecreeps.lolly2",
+    "sounds" : [
+      "morecreeps:lolly2"
+    ]
+  },
+
   "blorpcola": {
     "subtitle": "sounds.morecreeps.blorpcola",
     "sounds": [
